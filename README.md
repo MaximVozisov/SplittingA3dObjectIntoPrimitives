@@ -1,0 +1,1 @@
+# SplittingA3dObjectIntoPrimitives
