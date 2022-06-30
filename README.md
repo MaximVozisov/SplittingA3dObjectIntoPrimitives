@@ -1,1 +1,2 @@
-# SplittingA3dObjectIntoPrimitives
+>Development is underway...
+<h1 align="center">Splitting a 3d object into primitives</center></h1>
